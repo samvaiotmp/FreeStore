@@ -1,8 +1,9 @@
 #include "Resource.h"
+#include "Person.h"
 #include <string>
 using namespace std;
 
-int main()
+int main2()
 {
     {
         Resource localResource("local");
